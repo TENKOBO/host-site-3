@@ -1,0 +1,11 @@
+.contain{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.items{
+    height: 400px;
+    width: 45%;
+    background-color: crimson;
+    margin: 1rem;
+}
